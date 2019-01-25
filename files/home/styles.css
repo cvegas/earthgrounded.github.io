@@ -229,7 +229,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1200px;
+  width:1218px;
   height:452px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -244,7 +244,7 @@
   position:absolute;
   left:-18px;
   top:1456px;
-  width:1200px;
+  width:1218px;
   height:452px;
 }
 #u7_text {
@@ -1504,7 +1504,7 @@
   border-width:0px;
   position:absolute;
   left:202px;
-  top:545px;
+  top:531px;
   width:796px;
   height:80px;
   font-family:'Merriweather Light', 'Merriweather Regular', 'Merriweather';
@@ -1667,7 +1667,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:156px;
+  width:151px;
   height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1686,9 +1686,9 @@
 #u42 {
   border-width:0px;
   position:absolute;
-  left:522px;
-  top:1318px;
-  width:156px;
+  left:528px;
+  top:1375px;
+  width:151px;
   height:50px;
   font-family:'Open Sans Bold', 'Open Sans Regular', 'Open Sans';
   font-weight:700;
@@ -1702,7 +1702,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:156px;
+  width:151px;
   height:50px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -1725,7 +1725,7 @@
   position:absolute;
   left:30px;
   top:15px;
-  width:95px;
+  width:91px;
   white-space:nowrap;
 }
 #u43_div {
@@ -1733,8 +1733,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:211px;
-  height:41px;
+  width:286px;
+  height:36px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1750,10 +1750,10 @@
 #u43 {
   border-width:0px;
   position:absolute;
-  left:495px;
+  left:469px;
   top:1551px;
-  width:211px;
-  height:41px;
+  width:286px;
+  height:36px;
   font-family:'Open Sans Regular', 'Open Sans';
   font-weight:400;
   font-style:normal;
@@ -1764,7 +1764,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:200px;
+  width:286px;
   white-space:nowrap;
 }
 #u44_div {
@@ -1799,25 +1799,13 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u45_div {
+#u45_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:65px;
   height:56px;
-  background:inherit;
-  background-color:rgba(240, 95, 64, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
-  font-style:normal;
-  font-size:56px;
-  color:#F05F40;
 }
 #u45 {
   border-width:0px;
@@ -1837,8 +1825,9 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:43px;
-  white-space:nowrap;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u46_div {
   border-width:0px;
@@ -1861,8 +1850,8 @@
 #u46 {
   border-width:0px;
   position:absolute;
-  left:54px;
-  top:1722px;
+  left:39px;
+  top:1723px;
   width:220px;
   height:29px;
   font-family:'Open Sans Regular', 'Open Sans';
@@ -1922,25 +1911,13 @@
   width:279px;
   word-wrap:break-word;
 }
-#u48_div {
+#u48_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:57px;
   height:56px;
-  background:inherit;
-  background-color:rgba(240, 95, 64, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'FontAwesome Regular', 'FontAwesome';
-  font-weight:400;
-  font-style:normal;
-  font-size:56px;
-  color:#F05F40;
 }
 #u48 {
   border-width:0px;
@@ -1960,16 +1937,17 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:43px;
-  white-space:nowrap;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u49_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:239px;
-  height:29px;
+  width:209px;
+  height:28px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1984,10 +1962,10 @@
 #u49 {
   border-width:0px;
   position:absolute;
-  left:375px;
-  top:1722px;
-  width:239px;
-  height:29px;
+  left:346px;
+  top:1723px;
+  width:209px;
+  height:28px;
   font-family:'Open Sans Regular', 'Open Sans';
   font-weight:400;
   font-style:normal;
@@ -1997,7 +1975,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:239px;
+  width:209px;
   white-space:nowrap;
 }
 #u50_div {
@@ -2006,7 +1984,7 @@
   left:0px;
   top:0px;
   width:279px;
-  height:72px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2028,7 +2006,7 @@
   left:311px;
   top:1762px;
   width:279px;
-  height:72px;
+  height:120px;
   font-family:'Merriweather Regular', 'Merriweather';
   font-weight:400;
   font-style:normal;
@@ -2091,7 +2069,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:168px;
+  width:226px;
   height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2107,9 +2085,9 @@
 #u52 {
   border-width:0px;
   position:absolute;
-  left:963px;
-  top:1722px;
-  width:168px;
+  left:937px;
+  top:1723px;
+  width:226px;
   height:29px;
   font-family:'Open Sans Regular', 'Open Sans';
   font-weight:400;
@@ -2120,7 +2098,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:168px;
+  width:226px;
   white-space:nowrap;
 }
 #u53_div {
@@ -2129,7 +2107,7 @@
   left:0px;
   top:0px;
   width:279px;
-  height:72px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2151,7 +2129,7 @@
   left:911px;
   top:1762px;
   width:279px;
-  height:72px;
+  height:120px;
   font-family:'Merriweather Regular', 'Merriweather';
   font-weight:400;
   font-style:normal;
@@ -2214,7 +2192,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:214px;
+  width:184px;
   height:29px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2230,9 +2208,9 @@
 #u55 {
   border-width:0px;
   position:absolute;
-  left:692px;
-  top:1722px;
-  width:214px;
+  left:659px;
+  top:1723px;
+  width:184px;
   height:29px;
   font-family:'Open Sans Regular', 'Open Sans';
   font-weight:400;
@@ -2243,7 +2221,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:214px;
+  width:184px;
   white-space:nowrap;
 }
 #u56_div {
@@ -2252,7 +2230,7 @@
   left:0px;
   top:0px;
   width:279px;
-  height:48px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2274,7 +2252,7 @@
   left:611px;
   top:1762px;
   width:279px;
-  height:48px;
+  height:120px;
   font-family:'Merriweather Regular', 'Merriweather';
   font-weight:400;
   font-style:normal;
@@ -2484,7 +2462,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:530px;
+  width:662px;
   height:36px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2502,9 +2480,9 @@
 #u64 {
   border-width:0px;
   position:absolute;
-  left:346px;
-  top:2385px;
-  width:530px;
+  left:281px;
+  top:2389px;
+  width:662px;
   height:36px;
   font-family:'Open Sans Regular', 'Open Sans';
   font-weight:400;
@@ -2517,7 +2495,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:530px;
+  width:662px;
   white-space:nowrap;
 }
 #u65_div {
@@ -2525,7 +2503,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:177px;
+  width:271px;
   height:50px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -2544,9 +2522,9 @@
 #u65 {
   border-width:0px;
   position:absolute;
-  left:510px;
+  left:476px;
   top:2442px;
-  width:177px;
+  width:271px;
   height:50px;
   font-family:'Open Sans Bold', 'Open Sans Regular', 'Open Sans';
   font-weight:700;
@@ -2560,7 +2538,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:177px;
+  width:271px;
   height:50px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -2583,7 +2561,7 @@
   position:absolute;
   left:30px;
   top:15px;
-  width:114px;
+  width:211px;
   white-space:nowrap;
 }
 #u66_div {
